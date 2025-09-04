@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BOATS one-word domains still available to buy.
 
-This dataset contains 4,433 .BOATS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,473 .BOATS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BOATS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boats-oneword-domains&utm_content=description.top) (4,150) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,14 +13,16 @@ If you want to search & filters the complete database of [.BOATS one word domain
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/boats-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/boats-oneword-domains/blob/main/boats.csv"><b>⬇️ CSV (4.43K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/boats-oneword-domains/blob/main/boats.json"><b>⬇️ JSON (4.43K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/boats-oneword-domains/blob/main/boats.csv"><b>⬇️ CSV (4.47K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/boats-oneword-domains/blob/main/boats.json"><b>⬇️ JSON (4.47K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boats-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.15K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaa.boats        | available | 70       | 38%    | 3      |           |         |         |
+| aaron.boats      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.boats  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.boats      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.boats  | available | 58       | 10%    | 9      |           |         |         |
@@ -30,6 +32,7 @@ If you want to search & filters the complete database of [.BOATS one word domain
 | abatic.boats     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.boats    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.boats   | available | 50       | 1%     | 8      |           |         |         |
+| abc.boats        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.boats  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.boats  | available | 82       | 1%     | 9      |           |         |         |
 | abdominous.boats | available | 56       | 1%     | 10     |           |         |         |
@@ -43,19 +46,16 @@ If you want to search & filters the complete database of [.BOATS one word domain
 | abhorrent.boats  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.boats    | available | 106      | 5%     | 7      |           |         |         |
 | abient.boats     | available | 54       | 1%     | 6      |           |         |         |
+| ability.boats    | available | 92       | 18%    | 7      |           |         |         |
 | abit.boats       | available | 66       | 16%    | 5      |           |         |         |
 | abject.boats     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.boats     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.boats  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.boats     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.boats  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.boats    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.boats   | available | 68       | 3%     | 8      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/boats-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/boats-oneword-domains/blob/main/boats.csv"><b>⬇️ CSV (4.43K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/boats-oneword-domains/blob/main/boats.json"><b>⬇️ JSON (4.43K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/boats-oneword-domains/blob/main/boats.csv"><b>⬇️ CSV (4.47K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/boats-oneword-domains/blob/main/boats.json"><b>⬇️ JSON (4.47K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boats-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.15K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
