@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BOATS one-word domains still available to buy.
 
-This dataset contains 4,707 .BOATS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,706 .BOATS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BOATS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boats-oneword-domains&utm_content=description.top) (4,706) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -25,7 +25,6 @@ If you want to search & filters the complete database of [.BOATS one word domain
 | aaron.boats      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.boats  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.boats      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.boats  | available | 58       | 10%    | 9      |           |         |         |
 | abashed.boats    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.boats     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.boats   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +33,7 @@ If you want to search & filters the complete database of [.BOATS one word domain
 | abbatial.boats   | available | 50       | 1%     | 8      |           |         |         |
 | abc.boats        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.boats  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.boats  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.boats  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.boats | available | 56       | 1%     | 10     |           |         |         |
 | abducens.boats   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.boats   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +42,7 @@ If you want to search & filters the complete database of [.BOATS one word domain
 | aberdonian.boats | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.boats   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.boats    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.boats  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.boats  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.boats    | available | 106      | 5%     | 7      |           |         |         |
 | abient.boats     | available | 54       | 1%     | 6      |           |         |         |
 | ability.boats    | available | 92       | 18%    | 7      |           |         |         |
@@ -51,6 +50,7 @@ If you want to search & filters the complete database of [.BOATS one word domain
 | abject.boats     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.boats     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.boats  | available | 78       | 1%     | 9      |           |         |         |
+| abkhaz.boats     | available | 82       | 2%     | 6      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/boats-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BOATS one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
