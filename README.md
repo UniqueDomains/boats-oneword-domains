@@ -71,7 +71,7 @@ print(df.head())
 | limitless.boats  | resell    | —         | —             | 76             | 56     | 9      | Dynadot LLC                                  |
 | nationwide.boats | premium   | $2,500    | $2,500        | 76             | 66     | 10     | name.com                                     |
 | athletics.boats  | available | $19.98    | —             | 69             | 52     | 9      | namecheap                                    |
-| zero.boats       | resell    | —         | —             | 112            | 54     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| zero.boats       | resell    | —         | —             | 112            | 53     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 | line.boats       | premium   | $845      | $15.73        | 74             | 65     | 4      | namecheap                                    |
 | wizard.boats     | available | $1.99     | $20.99        | 118            | 45     | 6      | name.com                                     |
 | bloom.boats      | resell    | —         | —             | 72             | 52     | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
