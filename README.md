@@ -1,20 +1,20 @@
-# Available .BOATS One-Word Domains (9,468)
+# Available .BOATS One-Word Domains (9,467)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C467%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C468%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C467%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .boats one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .boats one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,467-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,468 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,467 rows · **Live catalog:** 9,468 domains
+**Public extract:** 9,467 rows · **Live catalog:** 9,467 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/boats`  
@@ -78,11 +78,11 @@ print(df.head())
 | easy.boats       | premium   | $812.50   | $20.99        | 128            | 62     | 4      | name.com                                     |
 | genius.boats     | available | $1.99     | $20.99        | 98             | 45     | 6      | name.com                                     |
 | just.boats       | resell    | —         | —             | 150            | 48     | 4      | Spaceship, Inc.                              |
-| free.boats       | premium   | $812.50   | $20.99        | 88             | 59     | 4      | name.com                                     |
+| cloud.boats      | premium   | $2,600    | $2,600        | 70             | 59     | 5      | namecheap                                    |
 | creator.boats    | available | $1.99     | $20.99        | 70             | 45     | 7      | name.com                                     |
 | bit.boats        | resell    | —         | —             | 108            | 47     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| cloud.boats      | premium   | $2,600    | $2,600        | 70             | 59     | 5      | namecheap                                    |
-| forge.boats      | available | $1.99     | $20.99        | 62             | 45     | 5      | name.com                                     |
+| ace.boats        | premium   | $812.50   | $20.99        | 88             | 57     | 3      | name.com                                     |
+| forge.boats      | available | $1.99     | $20.99        | 62             | 44     | 5      | name.com                                     |
 | bridge.boats     | resell    | —         | —             | 68             | 47     | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,467-row public sample | 9,468 live domains                               |
+| 9,467-row public sample | 9,467 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
