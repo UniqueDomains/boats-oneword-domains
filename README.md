@@ -1,22 +1,22 @@
-# Available .BOATS One-Word Domains (9,467)
+# Available .BOATS One-Word Domains (12,249)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C469%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C467%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C249%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .boats one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .boats one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,249 domains** on the canonical page below.
 
-**Public extract:** 9,469 rows · **Live catalog:** 9,467 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,249 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/boats`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BOATS one-word domain
 
 ### Files
 
-- `boats.csv` — public CSV extract (9,469 rows)
-- `boats.json` — public JSON extract (9,469 rows)
+- `boats.csv` — public CSV extract (1,000 rows)
+- `boats.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| seventeen.boats  | available | $1.99     | $20.99        | 84             | 62     | 9      | name.com                                     |
-| fantastic.boats  | resell    | —         | —             | 88             | 62     | 9      | Spaceship, Inc.                              |
-| converse.boats   | premium   | $2,500    | $2,500        | 64             | 73     | 8      | name.com                                     |
-| enterprise.boats | available | $19.98    | —             | 68             | 61     | 10     | namecheap                                    |
-| limitless.boats  | resell    | —         | —             | 76             | 55     | 9      | Dynadot LLC                                  |
-| nationwide.boats | premium   | $2,500    | $2,500        | 76             | 66     | 10     | name.com                                     |
-| athletics.boats  | available | $19.98    | —             | 69             | 52     | 9      | namecheap                                    |
-| zero.boats       | resell    | —         | —             | 112            | 53     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| line.boats       | premium   | $845      | $15.73        | 74             | 65     | 4      | namecheap                                    |
-| wizard.boats     | available | $1.99     | $20.99        | 118            | 45     | 6      | name.com                                     |
-| human.boats      | resell    | —         | —             | 74             | 50     | 5      | Dynadot LLC                                  |
-| easy.boats       | premium   | $812.50   | $20.99        | 128            | 62     | 4      | name.com                                     |
-| genius.boats     | available | $1.99     | $20.99        | 98             | 45     | 6      | name.com                                     |
-| just.boats       | resell    | —         | —             | 150            | 48     | 4      | Spaceship, Inc.                              |
-| cloud.boats      | premium   | $2,600    | $2,600        | 70             | 59     | 5      | namecheap                                    |
-| creator.boats    | available | $1.99     | $20.99        | 70             | 45     | 7      | name.com                                     |
-| bit.boats        | resell    | —         | —             | 108            | 47     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| ace.boats        | premium   | $812.50   | $20.99        | 88             | 57     | 3      | name.com                                     |
-| forge.boats      | available | $1.99     | $20.99        | 62             | 44     | 5      | name.com                                     |
-| bridge.boats     | resell    | —         | —             | 68             | 47     | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| winners.boats     | available | $1.99     | —             | 60             | 81     | 7      | name.com    |
+| slots.boats       | resell    | —         | —             | 49             | 31     | 5      | Dynadot LLC |
+| hotels.boats      | premium   | $812.50   | —             | 64             | 82     | 6      | name.com    |
+| RedSox.boats      | available | $19.98    | —             | 72             | 60     | 7      | namecheap   |
+| donuts.boats      | premium   | $2,500    | —             | 54             | 62     | 6      | name.com    |
+| teams.boats       | available | $1.99     | —             | 62             | 32     | 5      | name.com    |
+| farmers.boats     | premium   | $2,500    | —             | 54             | 59     | 7      | name.com    |
+| inspiration.boats | available | $1.99     | —             | 88             | 30     | 11     | name.com    |
+| justin.boats      | premium   | $812.50   | —             | 58             | 38     | 7      | name.com    |
+| popup.boats       | available | $1.99     | —             | 84             | 29     | 6      | name.com    |
+| events.boats      | premium   | $812.50   | —             | 68             | 37     | 6      | name.com    |
+| markets.boats     | available | $1.99     | —             | 62             | 29     | 7      | name.com    |
+| homes.boats       | premium   | $812.50   | —             | 86             | 34     | 5      | name.com    |
+| blocks.boats      | available | $1.99     | —             | 53             | 29     | 6      | name.com    |
+| William.boats     | premium   | $910      | $16.94        | 74             | 31     | 7      | namecheap   |
+| Jim.boats         | available | $19.98    | —             | 78             | 28     | 3      | namecheap   |
+| maps.boats        | premium   | $812.50   | —             | 56             | 31     | 4      | name.com    |
+| dogs.boats        | available | $1.99     | —             | 76             | 28     | 4      | name.com    |
+| solutions.boats   | premium   | $812.50   | —             | 56             | 31     | 9      | name.com    |
+| forms.boats       | available | $1.99     | —             | 54             | 28     | 5      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,469-row public sample | 9,467 live domains                               |
+| 1,000-row public sample | 12,249 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOATS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOATS One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
