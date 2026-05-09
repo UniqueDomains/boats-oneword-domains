@@ -917,6 +917,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4d9073e2-282b-4d0e-bb03-e4d224db3c40,breasts.boats,available,1.99,,50,9,7,name.com,,
 4d9b20f1-7722-4529-a882-4ce25fcac71e,flashdrives.boats,available,1.99,,62,2,12,name.com,,
 4d9d8b54-d201-4d35-88f3-9cbd558e7d68,mistakes.boats,available,1.99,,52,7,8,name.com,,
+4da34370-84b8-4dd1-b90c-ef984db110d5,quest.boats,premium,,,74,44,5,,,
 4de4aa87-e3b7-44fd-9207-3c7ef0863b30,thebird.boats,available,1.99,,58,6,8,name.com,,
 4e061242-a014-492f-95bb-384639a7f91f,chickenstrips.boats,available,1.99,,74,2,14,name.com,,
 4e25508c-7661-4551-98b8-48bafb3c4f21,letoffthehook.boats,available,1.99,,53,0,16,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 53b06d1d-bf77-471e-975b-1bb75a43374a,overwith.boats,available,1.99,,60,1,9,name.com,,
 53b9180b-6694-47f1-8eed-6cad3d73ab0a,wonders.boats,available,1.99,,62,16,7,name.com,,
 53ef501e-7d04-4618-b6fb-7c89a5c0362a,orchestrated.boats,available,1.99,,75,4,12,name.com,,
-540a11ca-19e3-4439-b28e-77bd10b39e21,vans.boats,premium,2500,,55,17,4,name.com,,
