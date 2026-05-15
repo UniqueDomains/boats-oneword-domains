@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .boats one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,444 domains · **Median ask:** $91.89 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/boats`  
 **Best for:** founders, investors, studios
 
@@ -73,17 +73,17 @@ print(df.head())
 | farmers.boats | premium   | $2,500    | —             | 54             | 59     | 7      | name.com    |
 | popup.boats   | available | $1.99     | —             | 84             | 29     | 6      | name.com    |
 | justin.boats  | premium   | $812.50   | —             | 58             | 38     | 7      | name.com    |
-| markets.boats | available | $1.99     | —             | 62             | 29     | 7      | name.com    |
-| events.boats  | premium   | $812.50   | —             | 68             | 37     | 6      | name.com    |
 | blocks.boats  | available | $1.99     | —             | 53             | 29     | 6      | name.com    |
-| homes.boats   | premium   | $812.50   | —             | 86             | 34     | 5      | name.com    |
+| events.boats  | premium   | $812.50   | —             | 68             | 37     | 6      | name.com    |
 | Jim.boats     | available | $19.98    | —             | 78             | 28     | 3      | namecheap   |
-| William.boats | premium   | $910      | $16.94        | 74             | 31     | 7      | namecheap   |
+| homes.boats   | premium   | $812.50   | —             | 86             | 34     | 5      | name.com    |
 | dogs.boats    | available | $1.99     | —             | 76             | 28     | 4      | name.com    |
-| maps.boats    | premium   | $812.50   | —             | 56             | 31     | 4      | name.com    |
+| William.boats | premium   | $910      | $16.94        | 74             | 31     | 7      | namecheap   |
 | forms.boats   | available | $1.99     | —             | 54             | 28     | 5      | name.com    |
-| rewards.boats | premium   | $812.50   | —             | 62             | 30     | 7      | name.com    |
+| maps.boats    | premium   | $812.50   | —             | 56             | 31     | 4      | name.com    |
 | KFC.boats     | available | $19.98    | —             | 74             | 27     | 3      | namecheap   |
+| rewards.boats | premium   | $812.50   | —             | 62             | 30     | 7      | name.com    |
+| bees.boats    | available | $1.99     | —             | 54             | 27     | 4      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOATS One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOATS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
