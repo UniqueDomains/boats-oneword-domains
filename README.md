@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .boats one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,444 domains · **Median ask:** $91.89 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/boats`  
 **Best for:** founders, investors, studios
 
@@ -71,9 +71,9 @@ print(df.head())
 | donuts.boats  | premium   | $2,500    | —             | 54             | 62     | 6      | name.com    |
 | teams.boats   | available | $1.99     | —             | 62             | 32     | 5      | name.com    |
 | farmers.boats | premium   | $2,500    | —             | 54             | 59     | 7      | name.com    |
-| popup.boats   | available | $1.99     | —             | 84             | 29     | 6      | name.com    |
-| justin.boats  | premium   | $812.50   | —             | 58             | 38     | 7      | name.com    |
 | blocks.boats  | available | $1.99     | —             | 53             | 29     | 6      | name.com    |
+| justin.boats  | premium   | $812.50   | —             | 58             | 38     | 7      | name.com    |
+| popup.boats   | available | $1.99     | —             | 84             | 28     | 6      | name.com    |
 | events.boats  | premium   | $812.50   | —             | 68             | 37     | 6      | name.com    |
 | Jim.boats     | available | $19.98    | —             | 78             | 28     | 3      | namecheap   |
 | homes.boats   | premium   | $812.50   | —             | 86             | 34     | 5      | name.com    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOATS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOATS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
