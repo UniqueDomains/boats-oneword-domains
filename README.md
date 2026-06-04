@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .boats one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,444 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,444 domains · **Median ask:** $91.89 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,444 domains · **Median ask:** $159.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/boats`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| winners.boats | available | $1.99     | —             | 60             | 81     | 7      | name.com    |
-| slots.boats   | resell    | —         | —             | 49             | 31     | 5      | Dynadot LLC |
-| hotels.boats  | premium   | $812.50   | —             | 64             | 82     | 6      | name.com    |
-| RedSox.boats  | available | $19.98    | —             | 72             | 60     | 7      | namecheap   |
-| donuts.boats  | premium   | $2,500    | —             | 54             | 62     | 6      | name.com    |
-| teams.boats   | available | $1.99     | —             | 62             | 32     | 5      | name.com    |
-| farmers.boats | premium   | $2,500    | —             | 54             | 59     | 7      | name.com    |
-| blocks.boats  | available | $1.99     | —             | 53             | 29     | 6      | name.com    |
-| justin.boats  | premium   | $812.50   | —             | 58             | 38     | 7      | name.com    |
-| popup.boats   | available | $1.99     | —             | 84             | 28     | 6      | name.com    |
-| events.boats  | premium   | $812.50   | —             | 68             | 37     | 6      | name.com    |
-| Jim.boats     | available | $19.98    | —             | 78             | 28     | 3      | namecheap   |
-| homes.boats   | premium   | $812.50   | —             | 86             | 34     | 5      | name.com    |
-| dogs.boats    | available | $1.99     | —             | 76             | 28     | 4      | name.com    |
-| William.boats | premium   | $910      | $16.94        | 74             | 31     | 7      | namecheap   |
-| forms.boats   | available | $1.99     | —             | 54             | 28     | 5      | name.com    |
-| maps.boats    | premium   | $812.50   | —             | 56             | 31     | 4      | name.com    |
-| KFC.boats     | available | $19.98    | —             | 74             | 27     | 3      | namecheap   |
-| rewards.boats | premium   | $812.50   | —             | 62             | 30     | 7      | name.com    |
-| bees.boats    | available | $1.99     | —             | 54             | 27     | 4      | name.com    |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| normal.boats     | available | $1.99     | —             | 90             | 82     | 6      | name.com                                     |
+| limitless.boats  | resell    | —         | —             | 76             | 55     | 9      | Dynadot LLC                                  |
+| Gmail.boats      | premium   | $2,500    | —             | 94             | 97     | 5      | name.com                                     |
+| habitat.boats    | available | $1.99     | —             | 74             | 66     | 7      | name.com                                     |
+| haven.boats      | resell    | —         | —             | 68             | 38     | 5      | GMO Internet Group, Inc. d/b/a Onamae.com    |
+| Audi.boats       | premium   | $2,500    | —             | 86             | 70     | 4      | name.com                                     |
+| lively.boats     | available | $1.99     | —             | 70             | 64     | 6      | name.com                                     |
+| port.boats       | resell    | —         | —             | 66             | 33     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| square.boats     | premium   | $2,500    | —             | 72             | 66     | 6      | name.com                                     |
+| victor.boats     | available | $1.99     | —             | 68             | 64     | 6      | name.com                                     |
+| night.boats      | resell    | —         | —             | 78             | 31     | 5      | Go Daddy, LLC                                |
+| harvard.boats    | premium   | $2,500    | —             | 72             | 64     | 7      | name.com                                     |
+| ant.boats        | available | $1.99     | —             | 76             | 62     | 3      | name.com                                     |
+| peace.boats      | resell    | —         | —             | 102            | 30     | 5      | GMO Internet Group, Inc. d/b/a Onamae.com    |
+| pay.boats        | premium   | $812.50   | —             | 84             | 63     | 3      | name.com                                     |
+| dowjones.boats   | available | $1.99     | $15.75        | 76             | 62     | 9      | namesilo                                     |
+| heal.boats       | resell    | —         | —             | 70             | 28     | 4      | Go Daddy, LLC                                |
+| open.boats       | premium   | $2,500    | —             | 106            | 59     | 4      | name.com                                     |
+| whitestuff.boats | available | $1.99     | —             | —              | 62     | 11     | name.com                                     |
+| tide.boats       | resell    | —         | —             | 92             | 23     | 4      | GMO Internet Group, Inc. d/b/a Onamae.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOATS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOATS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
