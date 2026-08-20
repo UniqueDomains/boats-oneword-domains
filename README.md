@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .boats one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,357 domains · **Median ask:** $101.49 · **High-demand under $2,500:** 29
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/boats`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| okay.boats  | available | $1.99     | $20.99        | high           | low    | 4      | name.com                                     |
-| sorry.boats | available | $1.99     | $20.99        | high           | low    | 5      | name.com                                     |
-| one.boats   | premium   | $2,500    | $2,500        | high           | medium | 3      | name.com                                     |
-| room.boats  | premium   | $812.50   | —             | high           | low    | 4      | name.com                                     |
-| time.boats  | premium   | $812.50   | —             | high           | medium | 4      | name.com                                     |
-| ant.boats   | available | $1.99     | —             | high           | medium | 3      | name.com                                     |
-| heal.boats  | resell    | —         | —             | high           | low    | 4      | Go Daddy, LLC                                |
-| bed.boats   | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
-| cxv.boats   | available | $1.80     | $19.98        | low            | low    | 3      | namecheap                                    |
-| port.boats  | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| cut.boats   | premium   | $812.50   | $20.99        | high           | low    | 3      | name.com                                     |
-| dig.boats   | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
-| tide.boats  | resell    | —         | —             | high           | low    | 4      | GMO Internet Group, Inc. d/b/a Onamae.com    |
-| dry.boats   | premium   | $812.50   | $20.99        | high           | low    | 3      | name.com                                     |
-| egg.boats   | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
-| haven.boats | resell    | —         | —             | medium         | low    | 5      | GMO Internet Group, Inc. d/b/a Onamae.com    |
-| lip.boats   | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
-| err.boats   | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
-| night.boats | resell    | —         | —             | high           | low    | 5      | Go Daddy, LLC                                |
-| few.boats   | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| ant.boats    | available | $1.99     | —             | high           | medium | 3      | name.com                                     |
+| heal.boats   | resell    | —         | —             | high           | low    | 4      | Go Daddy, LLC                                |
+| bed.boats    | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
+| cxv.boats    | available | $1.80     | $19.98        | low            | low    | 3      | namecheap                                    |
+| port.boats   | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| cut.boats    | premium   | $812.50   | $20.99        | high           | low    | 3      | name.com                                     |
+| dig.boats    | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
+| tide.boats   | resell    | —         | —             | high           | low    | 4      | GMO Internet Group, Inc. d/b/a Onamae.com    |
+| dry.boats    | premium   | $812.50   | $20.99        | high           | low    | 3      | name.com                                     |
+| egg.boats    | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
+| haven.boats  | resell    | —         | —             | medium         | low    | 5      | GMO Internet Group, Inc. d/b/a Onamae.com    |
+| lip.boats    | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
+| err.boats    | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
+| night.boats  | resell    | —         | —             | high           | low    | 5      | Go Daddy, LLC                                |
+| one.boats    | premium   | $2,500    | $2,500        | high           | medium | 3      | name.com                                     |
+| few.boats    | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
+| peace.boats  | resell    | —         | —             | high           | low    | 5      | GMO Internet Group, Inc. d/b/a Onamae.com    |
+| pay.boats    | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
+| had.boats    | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
+| shrimp.boats | resell    | —         | —             | high           | low    | 6      | Go Daddy, LLC                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOATS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOATS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
