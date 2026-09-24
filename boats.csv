@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-48cc33ed-7bdb-4dcc-8804-ab92366a7801,complex.boats,available,1.99,20.99,high,low,7,name.com,,,
+48cc33ed-7bdb-4dcc-8804-ab92366a7801,complex.boats,available,1.99,17.29,medium,low,7,namesilo,,,23/09/2026 17:35
 c56ed97c-cdc2-48a2-8292-ef036276d10a,normal.boats,available,1.99,,high,high,6,name.com,,,
 f5e2a5a4-3bd3-454b-b49e-a4844646e5a6,atwork.boats,available,1.99,15.75,high,low,7,namesilo,,,
 464fc374-b2a8-4c99-b496-7eb6f7f281ea,wordplay.boats,available,1.99,,medium,low,9,name.com,,,
@@ -16,7 +16,7 @@ b510e38c-0c60-4049-947c-fc5504898a9c,stations.boats,available,1.99,,medium,low,8
 d22cbe87-1872-43f0-a5be-9bd3ccad6948,lookatme.boats,available,1.99,,medium,low,10,name.com,,,
 4c93f917-cab4-43bf-ab6e-853f937568c4,irishhospitality.boats,available,1.99,,high,low,17,name.com,,,
 8a3f8b1c-1696-4190-9712-7de743fcb364,fortytwo.boats,available,,,medium,low,9,,,,
-dc75dbf5-bf23-4b72-80ae-bbc57f03d96b,creepy.boats,available,1.99,20.99,medium,low,6,name.com,,,
+dc75dbf5-bf23-4b72-80ae-bbc57f03d96b,creepy.boats,available,1.99,17.29,low,low,6,namesilo,,,24/09/2026 01:42
 62213570-ada5-4a5e-a968-bbf95658f1ac,latter.boats,available,1.99,,high,low,6,name.com,,,
 a00a2fbd-48ad-4bdb-be40-b8e305fa52c0,hermitical.boats,available,1.8,19.98,low,low,10,namecheap,,,
 89b87a9c-8486-454b-9967-02ef35046309,gourmet.boats,available,1.99,,high,low,7,name.com,,,
@@ -32,7 +32,7 @@ bd87780e-8d14-4a42-980c-4f9cec52d2ed,austral.boats,available,1.8,19.98,low,low,7
 9acb193f-95d8-4fff-a251-3a878c5beabb,sitting.boats,available,1.99,,high,low,7,name.com,,,
 2b5b8f0c-a6e1-4fcd-867e-ccf75ea89240,activistic.boats,available,1.8,19.98,low,low,10,namecheap,,,
 83196826-5d70-4b09-9e53-0141de5803ca,trial.boats,available,1.99,,high,low,5,name.com,,,
-c4f7dcf4-516c-4873-8147-9da857adf594,wall.boats,premium,832,832,low,low,4,namesilo,,,19/09/2026 13:29
+c4f7dcf4-516c-4873-8147-9da857adf594,wall.boats,premium,832,832,low,low,4,namesilo,,,23/09/2026 16:20
 8b9201a1-a2aa-43b8-aff2-2281b1a2883e,snore.boats,available,1.99,,high,low,5,name.com,,,
 c0dec141-1e0c-405c-94f5-81ab6fcc3c7b,reassuringly.boats,available,1.99,,medium,low,12,name.com,,,
 0adcfb76-5a82-484a-bafb-01023032d6be,breakroom.boats,available,1.99,15.75,medium,low,10,namesilo,,,
@@ -58,7 +58,7 @@ b80c947f-40cd-4989-b2b1-ba384d75912d,arcuate.boats,available,1.8,19.98,low,low,7
 5fc8e842-ad42-4ce6-9312-5581496a459a,dyspeptic.boats,available,1.8,19.98,low,low,9,namecheap,,,07/08/2026 14:14
 9668e07b-03e9-4bae-95cb-33a30a97836e,accused.boats,available,1.99,15.75,low,low,7,namesilo,,,
 e420ec76-5696-4a78-8b41-3216059f9d6c,hic.boats,available,1.99,,high,low,3,name.com,,,
-f6aab197-4588-4035-90c1-05817da5076d,naming.boats,available,1.8,21.98,medium,low,6,namecheap,,,19/09/2026 13:00
+f6aab197-4588-4035-90c1-05817da5076d,naming.boats,available,1.99,20.99,medium,low,6,name.com,,,23/09/2026 15:51
 5924847b-e1ec-45b6-bc4d-84bf4171d0ae,baggagecheck.boats,available,1.99,15.75,high,low,13,namesilo,,,
 d91a9eaf-1fb5-49a7-8bbb-570e4d18fbe1,toast.boats,available,1.99,,medium,low,5,name.com,,,
 d29b9e74-e630-4c27-896f-ef4422f63bec,agnostic.boats,available,1.99,17.29,medium,low,8,namesilo,,,21/09/2026 23:11
@@ -104,9 +104,9 @@ a835f724-c92f-4b7e-948d-e59078685536,jollygoodshow.boats,available,1.99,,high,lo
 49590820-37e9-425b-8d67-59a34eb4358d,binding.boats,available,1.8,21.98,medium,low,7,namecheap,,,22/09/2026 20:51
 3d2b9481-23e6-4c35-8923-07c0bd7a4896,knowof.boats,available,1.99,,medium,low,7,name.com,,,
 d9ad14f6-8036-4de6-b0e9-ee058848c45a,find.boats,premium,2500,,high,medium,4,name.com,,,
-0511c73d-f20f-45b3-9bf6-ded9b5c6e53f,thermal.boats,available,1.99,,medium,low,7,name.com,,,
+0511c73d-f20f-45b3-9bf6-ded9b5c6e53f,thermal.boats,available,1.99,17.29,low,low,7,namesilo,,,23/09/2026 12:37
 9c2c7e86-8ccd-41b8-80c5-1062b8f149bd,bedewed.boats,available,1.8,19.98,low,low,7,namecheap,,,09/08/2026 06:46
-89dd589b-7659-4df1-bb2c-3b95cb72342b,spiral.boats,available,1.99,,high,low,6,name.com,,,
+89dd589b-7659-4df1-bb2c-3b95cb72342b,spiral.boats,available,1.99,17.29,medium,low,6,namesilo,,,23/09/2026 14:59
 7c6a6952-3818-434c-85b0-3cfe2b0279f7,abounding.boats,available,1.8,19.98,low,low,9,namecheap,,,
 42b6e314-e309-4d20-bf5c-f76b3e3ca3d4,yelled.boats,available,1.99,,medium,low,6,name.com,,,
 1934471f-4b33-4fa8-aa9d-6efd53b2bc84,revolt.boats,available,1.99,,high,low,6,name.com,,,
@@ -194,19 +194,18 @@ d81d7f95-1ea3-47ca-b4f6-c6a7755b2fa5,ennead.boats,available,1.8,19.98,low,low,6,
 e8a8c84f-3931-4a22-adce-5da2c0cd0aa5,environmental.boats,available,1.99,15.75,high,low,13,namesilo,,,
 55c77420-807d-48e1-ae25-4948d8118757,streetcred.boats,available,1.99,,medium,low,11,name.com,,,
 e8dda70b-fa4f-4cff-b180-11d4a653ae7f,merrymen.boats,available,1.99,,high,low,9,name.com,,,
-4b136f16-8ba1-4739-9516-608b76655ce2,soft.boats,premium,812.5,20.99,high,low,4,name.com,,,
 3a4c4292-2c34-4583-b351-4036e1643569,snapping.boats,available,1.99,,medium,low,8,name.com,,,
 0438cca8-98fa-429e-873d-9a92c76c906f,asaresultof.boats,available,1.99,15.75,medium,low,14,namesilo,,,
 20522bfe-c14c-43b2-8c3c-163b6b94ba0b,more.boats,premium,812.5,,high,medium,4,name.com,,,
 d7e3cd9f-91fa-45e7-b15b-7bf1e8a00ca1,repulsive.boats,available,1.8,19.98,low,low,9,namecheap,,,
 13c3e802-76c6-4b26-826f-47eb727efe2a,sportsfan.boats,available,1.99,,high,low,10,name.com,,,
 8017ac49-2641-449f-a59f-3b0137921bf7,accuser.boats,available,1.99,15.75,low,low,7,namesilo,,,
-956542f5-db8b-42bc-b1e7-9b1fb5aa6f19,formal.boats,available,1.99,20.99,high,low,6,name.com,,,
+956542f5-db8b-42bc-b1e7-9b1fb5aa6f19,formal.boats,available,1.99,17.29,medium,low,6,namesilo,,,24/09/2026 00:47
 cf0b0e42-f80d-42f4-aed4-a09acd19ff73,ant.boats,available,1.99,,high,medium,3,name.com,,,
 7d2382c3-4deb-402e-8188-4f71ea43a926,mahfugga.boats,available,1.99,,medium,low,8,name.com,,,
 c81a162f-cfca-4b91-9454-14e540ad5ef1,fulgid.boats,available,1.8,19.98,low,low,6,namecheap,,,
 9a49b58f-73d8-4edd-b7c4-68d55f15881d,chiseling.boats,available,1.99,15.75,medium,low,9,namesilo,,,
-f8325482-c9d7-4d30-a586-f3a680b10cf3,burnt.boats,available,1.99,15.75,medium,low,5,namesilo,,,
+f8325482-c9d7-4d30-a586-f3a680b10cf3,burnt.boats,available,1.99,17.29,low,low,5,namesilo,,,23/09/2026 11:41
 4e5cebfd-a73e-4f36-81ff-63fb638c749a,open.boats,premium,2660,2660,low,low,4,namesilo,,,22/09/2026 09:52
 818dc641-2c52-4093-b02c-dda0b5f20b94,acidreflux.boats,available,1.99,15.75,low,low,11,namesilo,,,
 7032a8d0-bc55-4f00-aae2-06425066adef,thisinstant.boats,available,1.99,,low,low,12,name.com,,,
@@ -233,7 +232,7 @@ c5d5cbc3-e2c1-434a-96dc-e4d2665c63d2,neworleans.boats,premium,812.5,,medium,low,
 e47896bf-be75-4ac6-9765-b1aa64e45de4,cinderella.boats,available,1.99,15.75,high,low,10,namesilo,,,
 385a5a13-8a33-407c-aa4f-f352b918a91e,worm.boats,available,1.99,,medium,low,4,name.com,,,
 e0cdf8a0-3c59-4987-a937-7065d70e9a68,wrapped.boats,available,1.8,19.98,low,low,7,namecheap,,,
-62e71364-6503-4951-acc6-5ed52e07936b,comedian.boats,available,1.99,15.75,high,low,8,namesilo,,,
+62e71364-6503-4951-acc6-5ed52e07936b,comedian.boats,available,1.8,21.98,medium,low,8,namecheap,,,23/09/2026 15:26
 a58e009a-a02d-4ebb-88ab-eb3c07bf9c70,spurious.boats,available,1.8,19.98,low,low,8,namecheap,,,09/08/2026 00:03
 ff2df8df-d522-4c14-bd73-635f8c4e093f,attimes.boats,available,1.99,15.75,medium,low,8,namesilo,,,
 16f96f55-b33b-4353-9e2f-e36903d9d70b,fortified.boats,available,1.8,19.98,low,low,9,namecheap,,,09/08/2026 00:17
@@ -258,7 +257,6 @@ afadf3b2-8d88-43a8-9010-ffd1278339f7,anuric.boats,available,1.8,19.98,low,low,6,
 015fcd62-2a73-4dfe-b4fd-f851398f67f8,buyfood.boats,available,1.99,15.75,high,low,8,namesilo,,,
 c0bd58fe-bbe8-41e1-8db1-1544fd4e06f8,godhead.boats,available,1.8,19.98,low,low,7,namecheap,,,
 86093b39-358d-4270-9f1e-43ab39359880,jock.boats,premium,2500,,high,low,4,name.com,,,
-e9764c9c-7f62-437e-8a61-dcf9a2690ccc,room.boats,premium,812.5,,high,low,4,name.com,,,
 c3ef2668-f8f7-465c-b55d-41f314dcc24c,armorclad.boats,available,1.8,19.98,low,low,10,namecheap,,,06/08/2026 20:05
 cc47813a-cc43-45ab-a068-7b490c86d8d6,coffeemaker.boats,available,1.99,15.75,high,low,12,namesilo,,,
 ce75213a-d2c5-41d0-9184-b7315ddfcc4a,articled.boats,available,1.8,19.98,low,low,8,namecheap,,,06/08/2026 08:28
@@ -278,12 +276,12 @@ baffd546-b4c0-4770-a427-b0f98e0b5ff2,germanreich.boats,available,1.99,15.75,medi
 30761ce2-67a4-4bcd-b6f4-01a305b354b0,little.boats,premium,812.5,,high,low,6,name.com,,,
 87d8bd12-a53e-496f-9e9f-c7d95b2e9225,condense.boats,available,1.99,15.75,high,low,8,namesilo,,,
 4d298f66-edd0-44c9-a7b4-b2a7d08ae23c,enlivening.boats,available,1.8,19.98,low,low,10,namecheap,,,
-d181ddad-f002-4e77-81c0-6bf3cb822c59,imaginable.boats,available,1.99,20.99,medium,low,10,name.com,,,
+d181ddad-f002-4e77-81c0-6bf3cb822c59,imaginable.boats,available,1.99,17.29,medium,low,10,namesilo,,,23/09/2026 18:44
 2e53db83-fd2c-49d3-bec8-fd1be352666c,cloud.boats,premium,2600,2600,medium,medium,5,namecheap,,,08/09/2026 12:26
 58b2e69b-71e3-4649-997c-173144f55474,cutshort.boats,available,1.99,15.75,medium,low,9,namesilo,,,
 cbee28b9-72fc-4061-8203-1b19c975bfc7,vexatious.boats,available,1.8,19.98,low,low,9,namecheap,,,
 3f25eb74-523c-4f9a-9cf7-fb0ed5b50ace,broad.boats,available,1.99,17.29,medium,low,5,namesilo,,,19/09/2026 06:03
-19ac241d-152a-4189-87ad-41f86ef716ef,lover.boats,available,1.99,,high,low,5,name.com,,,
+19ac241d-152a-4189-87ad-41f86ef716ef,lover.boats,available,1.8,21.98,medium,low,5,namecheap,,,23/09/2026 10:15
 7dadbaf6-90a0-471e-b0fb-3ec12b15b20e,acanthoid.boats,available,1.8,19.98,low,low,9,namecheap,,,
 b5b80085-0e70-4cd2-b054-29551ef8c67f,restaurant.boats,premium,812.5,,high,low,10,name.com,,,
 7de7af07-15f4-4fa7-a83e-45c767362896,employer.boats,available,1.99,15.75,high,low,8,namesilo,,,
@@ -332,17 +330,16 @@ ac01ec24-a4da-4d99-96ba-8b97e66c57b4,takeaknee.boats,available,1.99,,low,low,11,
 63a1b85b-9d04-44ea-bd37-1fc6e8069bc3,baboonish.boats,available,1.8,19.98,low,low,9,namecheap,,,08/08/2026 03:42
 913b8c9f-0c0a-424a-b20b-1c801767f5fb,time.boats,premium,812.5,,high,medium,4,name.com,,,
 1adecaf9-73d9-49e5-be42-f7c18cc927bb,addicted.boats,available,1.99,17.29,medium,low,8,namesilo,,,21/09/2026 17:07
-09028346-11c0-4564-bc04-a8e127a68879,idiotic.boats,available,1.99,20.99,medium,low,7,name.com,,,
+09028346-11c0-4564-bc04-a8e127a68879,idiotic.boats,available,1.8,21.98,low,low,7,namecheap,,,24/09/2026 01:17
 7c1ab52a-fbe4-4123-9e85-3827931f0775,complacently.boats,available,1.99,15.75,medium,low,12,namesilo,,,
 3d564b16-d73e-4cb5-a64e-96344cd3e227,most.boats,premium,2500,,high,low,4,name.com,,,
 afc78810-329d-4a6f-bb48-df5e43265b78,yubacity.boats,available,1.99,,low,low,9,name.com,,,
 52bfe02e-16a9-4b48-aa58-3a40f2324ead,imagine.boats,premium,2500,,high,medium,7,name.com,,,
 247a156b-591d-47d0-996e-c581143dab75,prepacked.boats,available,1.99,,medium,low,9,name.com,,,
 1196a078-26f4-425e-b59c-1183b864ed31,politicalparty.boats,available,1.99,,medium,low,15,name.com,,,
-7670ee6e-91d4-4ba2-9703-42d85c9a7863,cut.boats,premium,812.5,20.99,high,low,3,name.com,,,
 0541b0b7-f694-4e4e-9f88-2d9ed32468c6,fiery.boats,available,1.8,19.98,low,low,5,namecheap,,,06/08/2026 16:24
 f9791098-5a51-4487-bc6c-676ad93c39b8,withopenarms.boats,available,1.99,,low,low,14,name.com,,,
-06530637-c96e-470b-8023-4d46e44a97dc,recovering.boats,available,1.99,20.99,high,low,10,name.com,,,
+06530637-c96e-470b-8023-4d46e44a97dc,recovering.boats,available,1.8,21.98,medium,low,10,namecheap,,,23/09/2026 22:44
 3a446ec6-8778-46d0-bd67-32ddbc1d1dd9,alluring.boats,available,1.8,21.98,medium,low,8,namecheap,,,22/09/2026 01:34
 c05d0dfb-c165-40d8-b4f2-4b50c9aa6ae7,anti.boats,available,1.8,19.98,medium,low,4,namecheap,,,
 4019a614-d05f-4173-a291-844dbbd519bb,appealable.boats,available,1.8,19.98,low,low,10,namecheap,,,06/08/2026 05:46
@@ -352,7 +349,7 @@ c05d0dfb-c165-40d8-b4f2-4b50c9aa6ae7,anti.boats,available,1.8,19.98,medium,low,4
 6a8e171f-4e92-45c0-b236-5cc585e7f3bd,atbest.boats,available,1.99,15.75,medium,low,7,namesilo,,,
 67973061-0e32-42b5-8624-dfb32a469df9,front.boats,available,,,high,low,5,,,,
 75d6323c-7cf1-480d-b49c-7da50bf1fed2,pentad.boats,available,1.8,19.98,low,low,6,namecheap,,,
-1716bae9-792f-4318-8c5c-8818f0b3db1f,laboratory.boats,available,1.99,,high,low,10,name.com,,,
+1716bae9-792f-4318-8c5c-8818f0b3db1f,laboratory.boats,available,1.8,21.98,medium,low,10,namecheap,,,24/09/2026 03:29
 cd00df36-7332-46b6-8e04-5574cc2cc5b5,whitevinegar.boats,available,1.99,,low,low,13,name.com,,,
 1b41bc8b-daf9-43ef-9ee0-098e8ec5a74f,minimum.boats,available,1.99,,high,low,7,name.com,,,
 e1b20ca1-41d7-4c5f-b988-2595b8aba8e0,midwinter.boats,available,1.99,,medium,low,10,name.com,,,
@@ -367,12 +364,11 @@ b1f07f28-0f9e-4541-954f-1e5fcc3a22b2,accursed.boats,available,1.8,19.98,low,low,
 e7299e46-986f-4a61-bc6a-4e8ca2a86e4a,commonguineapig.boats,available,1.99,15.75,medium,low,17,namesilo,,,
 0b936130-47bf-4649-a2a0-19776b240763,arminian.boats,available,1.8,19.98,low,low,8,namecheap,,,06/08/2026 19:49
 de5dc9c4-0f94-42be-9b82-bcb1b7f86765,opportunityclass.boats,available,1.99,,high,low,17,name.com,,,
-665f5828-f9c5-49db-b24b-e31209af1ab3,corrupted.boats,available,1.99,20.99,medium,low,9,name.com,,,
+665f5828-f9c5-49db-b24b-e31209af1ab3,corrupted.boats,available,1.99,17.29,low,low,9,namesilo,,,23/09/2026 23:59
 f9df8f19-d4e3-40db-b549-c74d97a3a880,bounce.boats,available,1.99,17.29,medium,low,6,namesilo,,,23/09/2026 01:22
 c4d867b4-e485-4b68-9345-2788c0667676,algometric.boats,available,1.8,19.98,low,low,10,namecheap,,,
 83727f04-784e-49cb-be6a-5329e34a9e7e,asthedayislong.boats,available,1.99,,medium,low,18,name.com,,,
 95c56047-d787-412f-814d-663f76cd02bf,characteristics.boats,available,1.99,15.75,medium,low,15,namesilo,,,
-88993562-0896-451e-b8a7-df49d84e8d78,central.boats,premium,812.5,,high,low,7,name.com,,,
 d8ff4faa-c79b-4881-99d0-94da7b44b833,mobiletelephone.boats,available,1.99,,high,low,16,name.com,,,
 0c955c86-e04c-40c8-a486-79a22534244a,lane.boats,premium,2500,,medium,low,4,name.com,,,
 e01ae93a-9bc4-4c90-b366-8f8fa7bd261d,archducal.boats,available,1.8,19.98,low,low,9,namecheap,,,06/08/2026 15:27
@@ -447,7 +443,7 @@ bb9b723e-1bf1-433f-870b-bb3081cf6835,became.boats,available,1.99,15.75,medium,lo
 cee5439a-c285-410d-962a-5a30df1d308b,inspirational.boats,available,1.99,,high,low,13,name.com,,,
 e97c217e-1837-46e5-8d1d-4e4a23603a92,westend.boats,available,1.99,,medium,low,8,name.com,,,
 0bb79f05-ed88-44df-8001-d695d827725b,sensor.boats,available,1.99,,high,low,6,name.com,,,
-b965fffb-0306-4cff-9cc7-2b8a949fc5ff,facts.boats,available,1.8,21.98,medium,low,5,namecheap,,,20/09/2026 19:39
+b965fffb-0306-4cff-9cc7-2b8a949fc5ff,facts.boats,available,1.8,21.98,medium,low,5,namecheap,,,23/09/2026 17:41
 5e112005-a360-450b-9764-bf5a731f5c8e,daylight.boats,available,1.99,,high,low,8,name.com,,,
 91eadccb-b949-4062-bf13-5d5a5088be2e,admittable.boats,available,1.8,19.98,low,low,10,namecheap,,,
 d496b0bb-2971-4dcd-9f39-b960c4c0f695,sellbydate.boats,available,1.99,,medium,low,12,name.com,,,
@@ -568,7 +564,7 @@ c538768f-bfd4-4be6-ae55-1d0e8bfdc239,fasttravel.boats,available,1.99,15.75,high,
 aa97cf02-5694-455d-8a66-55bfdf4b8a2c,twenty.boats,available,1.8,21.98,medium,low,6,namecheap,,,21/09/2026 12:24
 89bd5a0a-3c51-45c2-9a2c-adb2bb3ef6d1,attraction.boats,available,1.99,15.75,high,low,10,namesilo,,,
 6703f730-4c14-4fb0-b291-aaa0302dc575,manual.boats,available,1.99,,medium,low,6,name.com,,,
-f7acd6fe-e759-4027-a42a-27b81572c7e6,idiot.boats,available,1.99,17.29,low,low,5,namesilo,,,19/09/2026 09:51
+f7acd6fe-e759-4027-a42a-27b81572c7e6,idiot.boats,available,1.99,17.29,low,low,5,namesilo,,,23/09/2026 07:42
 0d64ad10-fb91-4d50-a3fc-1c32d9d10cc4,one.boats,premium,2600,2600,medium,low,3,namecheap,,,21/09/2026 10:37
 426c81e5-579d-42ee-9e80-8d49870fa687,chiefjustice.boats,available,1.99,15.75,medium,low,13,namesilo,,,
 15cf33c6-8b0a-481c-9792-e101c8cda26b,pittsburgh.boats,premium,812.5,,medium,low,10,name.com,,,
@@ -603,7 +599,6 @@ aa0dec2d-0a03-41cc-bcbd-8e6bc501409b,teenager.boats,available,1.8,21.98,low,low,
 cbe64f45-19d2-4918-94b4-ad3cf98fc225,wearoff.boats,available,1.99,,low,low,8,name.com,,,
 97849148-976d-4455-9a1e-fcae31174ca6,apish.boats,available,1.8,19.98,low,low,5,namecheap,,,06/08/2026 00:12
 2a9b72a5-f3e4-4c5f-a42b-a0b89df32e2e,aswell.boats,available,1.99,15.75,high,low,7,namesilo,,,
-c1a83496-4aed-49eb-b61b-6b6a0ccec3c4,creative.boats,premium,812.5,20.99,high,medium,8,name.com,,,
 5842bb69-fcfd-49f1-bfa8-643683bcda7f,hopefully.boats,available,1.99,,high,low,9,name.com,,,
 0c501ef2-a461-4bca-b5cc-5dd0ff386a6b,working.boats,available,1.99,17.29,medium,low,7,namesilo,,,19/09/2026 07:09
 0007e2e0-686b-44ac-b700-fa977b1e6784,bareheaded.boats,available,1.8,19.98,low,low,10,namecheap,,,08/08/2026 18:49
@@ -630,11 +625,10 @@ c0f46275-dad5-4904-992e-daaa4df22070,initiative.boats,available,1.99,17.29,mediu
 8c549d7a-221d-4494-8da9-77637a9dc86b,slip.boats,available,1.99,,high,low,4,name.com,,,
 05fe8eef-0e2e-43de-95c0-72ded9d340b6,coconut.boats,premium,812.5,,high,low,7,name.com,,,
 ed714baa-80ed-4562-9033-2917d43a495f,buttocks.boats,available,1.8,19.98,low,low,8,namecheap,,,09/08/2026 10:25
-f37a4a8e-8eab-49e7-ae39-fe65d11eccfa,heal.boats,resell,,,high,low,4,"Go Daddy, LLC",04/09/2025 19:42,04/09/2026 23:59,
 df7f09d0-e8cc-4f45-af1f-ff0ab95aa6bd,death.boats,available,1.99,20.99,medium,low,5,name.com,,,
 4bb78221-6df2-43fb-9967-0787b2e0243f,inadvance.boats,available,1.8,19.98,low,low,10,namecheap,,,09/08/2026 08:47
 36505042-1a81-4302-8af2-16f25245ff29,skateboarding.boats,available,1.99,,low,low,13,name.com,,,
-b3330f16-0e24-47e5-930b-82279b73e612,busted.boats,available,1.99,15.75,medium,low,6,namesilo,,,
+b3330f16-0e24-47e5-930b-82279b73e612,busted.boats,available,1.99,17.29,low,low,6,namesilo,,,23/09/2026 12:06
 34e6c91d-82b6-4f72-8f2c-8344e6084acc,rotfl.boats,available,1.99,,low,low,5,name.com,,,
 44d1229c-5b58-40dd-9302-d4996f0340de,spellcheck.boats,available,1.99,,high,low,11,name.com,,,
 74cb4c02-39b2-4277-beb6-d305fd234edd,septenary.boats,available,1.8,19.98,low,low,9,namecheap,,,
@@ -654,12 +648,12 @@ b03518ab-95e3-40c4-aabc-4b10f15d0ac7,thief.boats,available,1.99,,medium,low,5,na
 d1c76eef-f337-40e1-952e-05f4e3906cf3,laziness.boats,available,1.99,,medium,low,8,name.com,,,
 be1b49d3-b971-41a5-b63a-2deaaca2213f,groves.boats,available,1.99,,medium,low,6,name.com,,,
 21b3a924-2420-4f50-89b1-d99f1b3d78d9,examine.boats,available,1.99,15.75,high,low,7,namesilo,,,
-31f1359f-57f5-4aa6-8378-fe3a845285e3,reinforced.boats,available,1.99,,medium,low,10,name.com,,,
+31f1359f-57f5-4aa6-8378-fe3a845285e3,reinforced.boats,available,1.99,17.29,medium,low,10,namesilo,,,23/09/2026 10:25
 b0e1fec2-faa4-4c3e-8113-5f9a83afaad8,resounding.boats,available,1.99,,high,low,10,name.com,,,
 01d3dfe6-d207-49a6-98e8-ed18e6d7cc1b,getridof.boats,available,1.99,,high,low,10,name.com,,,
 333ac90b-1f94-40c8-ac00-2fbc7b9c7c76,familybusiness.boats,available,1.99,15.75,high,low,15,namesilo,,,
 d5d0eda9-335c-4c81-82d3-3f4e90fddd8e,snippet.boats,available,1.99,,high,low,7,name.com,,,
-788bbb36-cfcd-4c6e-8278-1a4f714fcb97,habitat.boats,available,1.99,,high,medium,7,name.com,,,
+788bbb36-cfcd-4c6e-8278-1a4f714fcb97,habitat.boats,available,1.99,17.29,medium,low,7,namesilo,,,23/09/2026 08:52
 84759390-6286-4790-b482-148c6b004d88,amongst.boats,available,1.99,15.75,medium,low,7,namesilo,,,
 84ba0d06-3efa-4f45-8ba9-91f155796720,briefly.boats,available,1.99,15.75,medium,low,7,namesilo,,,
 c9fc59f4-1b91-4023-9cdc-9745da9bc0a1,requirement.boats,available,1.99,,high,low,11,name.com,,,
@@ -684,7 +678,7 @@ a4b9b4d4-0422-4d12-908a-e60745a3ae03,alaskan.boats,available,1.8,19.98,low,low,7
 ba24c253-a52a-4baa-ba43-4078036c2caf,aural.boats,available,1.8,21.98,low,low,5,namecheap,,,22/09/2026 12:49
 c86890a1-c684-4d0c-b727-44c96d988033,bared.boats,available,1.99,17.29,low,low,5,namesilo,,,22/09/2026 17:24
 b8cedef0-d3c8-473e-ad57-65234479d460,gardensalad.boats,available,1.99,15.75,high,low,12,namesilo,,,
-7d1708fa-135a-4864-b9ec-69b59ae70afb,circular.boats,available,1.99,15.75,high,low,8,namesilo,,,
+7d1708fa-135a-4864-b9ec-69b59ae70afb,circular.boats,available,1.99,17.29,medium,low,8,namesilo,,,23/09/2026 09:44
 5d8dd4be-63c2-4d4a-95d2-8a1c5652adc3,pull.boats,available,1.99,,high,low,4,name.com,,,
 711deb6e-abe3-46ca-9135-b8200bc4b639,regurgitate.boats,available,1.99,,high,low,11,name.com,,,
 27ea7f42-d0a0-4ac2-a895-369e648286c9,stability.boats,available,1.99,,high,low,9,name.com,,,
@@ -712,7 +706,7 @@ b2349114-755f-47a7-81cb-065afca4894e,noble.boats,premium,2500,2500,medium,low,5,
 8312b3d4-7f79-47ff-8b65-87aaed5c9547,ammoniac.boats,available,1.8,19.98,low,low,8,namecheap,,,
 a5602441-6a3c-4101-880e-2bb2236f89c0,plunkfor.boats,available,1.8,19.98,low,low,9,namecheap,,,08/08/2026 05:28
 d94acbe4-1fad-4d20-890b-521ebebfee07,handmedown.boats,available,1.99,15.75,high,low,12,namesilo,,,
-80ee1749-dd19-4036-8296-fe1df3d097c6,comical.boats,available,1.99,15.75,high,low,7,namesilo,,,
+80ee1749-dd19-4036-8296-fe1df3d097c6,comical.boats,available,1.8,21.98,medium,low,7,namecheap,,,23/09/2026 15:19
 a1373f14-0fea-438f-9210-cc3adfe526bc,rolling.boats,available,1.99,17.29,low,low,7,namesilo,,,19/09/2026 06:51
 9d507d53-550f-479c-b644-dfcb1fc9a960,shootingstar.boats,available,1.99,,high,low,13,name.com,,,
 3bd2d500-c5ca-4969-a9eb-752cfe8e0c51,hardwork.boats,available,1.99,15.75,high,low,9,namesilo,,,
@@ -764,7 +758,7 @@ b5898842-6025-4d8f-9f9d-54c6db7fd570,ended.boats,available,1.8,19.98,low,low,5,n
 05b7e109-eab0-4b9e-9ebe-7eb8b90712f3,worldfair.boats,available,1.99,,low,low,10,name.com,,,
 86859819-7583-4252-84b2-131f79f9ce5c,afghan.boats,available,1.8,19.98,low,low,6,namecheap,,,
 1081664e-27d4-4375-abad-a46f9252ddd0,nuts.boats,available,1.99,17.29,medium,low,4,namesilo,,,22/09/2026 08:20
-0b28fff7-ecc3-4713-9b0c-66913db23a4b,blacktea.boats,available,1.99,15.75,high,low,9,namesilo,,,
+0b28fff7-ecc3-4713-9b0c-66913db23a4b,blacktea.boats,available,1.99,17.29,low,low,9,namesilo,,,24/09/2026 01:47
 a98a6006-0014-47b9-b338-64245b666ab5,allantoid.boats,available,1.8,19.98,low,low,9,namecheap,,,
 d3615a8c-d912-4cc5-a2e5-d60d71515b67,vivid.boats,premium,2500,,high,low,5,name.com,,,
 d0d801e0-7804-4dc2-85bb-32d6981fff2b,readmylips.boats,available,1.99,,low,low,12,name.com,,,
@@ -802,11 +796,11 @@ ae3495fe-5eed-4006-90bc-854b0ec87328,antenatal.boats,available,1.8,21.98,medium,
 bf7c53fe-2664-43c4-970c-dafa6c615317,anabolic.boats,available,1.8,19.98,low,low,8,namecheap,,,
 0e240729-9b23-4ecd-9509-7e96651fe0f6,rear.boats,available,1.8,21.98,medium,low,4,namecheap,,,22/09/2026 19:06
 8195902a-a4ce-4ef4-88d2-5a65b7b38fc0,enticing.boats,available,1.8,21.98,medium,low,8,namecheap,,,22/09/2026 01:41
-7c6cb103-65bf-4dda-95d3-fe547fae71b6,compound.boats,available,1.99,20.99,high,low,8,name.com,,,
+7c6cb103-65bf-4dda-95d3-fe547fae71b6,compound.boats,available,1.8,21.98,medium,low,8,namecheap,,,23/09/2026 17:56
 5d956984-e860-4e8f-8f1b-2743f0c12b00,interpret.boats,available,1.99,,high,low,9,name.com,,,
 fc0b2f34-ad68-4fc6-811b-1242cf563c7b,accusation.boats,available,1.99,15.75,low,low,10,namesilo,,,
 a2990537-0975-4bd3-b430-500b68be3c86,cherryblossom.boats,available,1.99,15.75,high,low,14,namesilo,,,
-9989fdef-0e2b-403f-a29b-506d5fa67c39,health.boats,premium,2660,2660,medium,low,6,namesilo,,,19/09/2026 10:54
+9989fdef-0e2b-403f-a29b-506d5fa67c39,health.boats,premium,2660,2660,medium,low,6,namesilo,,,23/09/2026 08:29
 65bf353b-8b78-4eb2-8ddb-d3260fd825b6,hamburger.boats,available,1.99,15.75,high,low,9,namesilo,,,
 ec8902d0-36ba-437b-b2a1-c2b20cb18bee,moveback.boats,available,1.99,,high,low,9,name.com,,,
 ea1a6a22-406b-4281-9a87-b1d2d3d07f48,disk.boats,available,1.99,15.75,high,low,4,namesilo,,,
@@ -826,11 +820,11 @@ efb47df2-4441-442f-8479-dbb0ff33606a,latitude.boats,available,1.99,,high,low,8,n
 51f6a578-125f-4a23-9990-aaeb451ea216,baneful.boats,available,1.8,19.98,low,low,7,namecheap,,,08/08/2026 09:44
 ac53dfe3-0872-459d-92e8-275969358770,ogdoad.boats,available,1.8,19.98,low,low,6,namecheap,,,
 13fe08b8-8efd-41f7-a082-54b74c9190e4,ilxxx.boats,available,1.8,19.98,low,low,5,namecheap,,,
-870c1140-10da-4797-960a-7d621fd72909,flop.boats,available,1.99,15.75,medium,low,4,namesilo,,,
+870c1140-10da-4797-960a-7d621fd72909,flop.boats,available,1.99,17.29,low,low,4,namesilo,,,23/09/2026 12:03
 dce74db7-0b24-4183-90ae-264fbb3dd0c8,aldehydic.boats,available,1.8,19.98,low,low,9,namecheap,,,
 01329665-d1a9-4680-9248-b77d33d65d55,agonising.boats,available,1.8,19.98,low,low,9,namecheap,,,
 49665c77-4ca8-4a35-a4fc-c7e2e827f395,bendystraw.boats,available,1.99,15.75,high,low,11,namesilo,,,
-3a307b95-58a6-4715-a8af-5c6890d64e79,engineer.boats,available,1.99,17.29,medium,low,8,namesilo,,,19/09/2026 14:35
+3a307b95-58a6-4715-a8af-5c6890d64e79,engineer.boats,available,1.99,20.99,medium,low,8,name.com,,,23/09/2026 17:26
 ba16b001-c3d0-4da6-8e45-2663c1068434,audacious.boats,available,1.99,17.29,medium,low,9,namesilo,,,22/09/2026 12:06
 7485efd7-c58c-4599-a0bb-e14a3b0effb0,licensed.boats,available,1.99,17.29,low,low,8,namesilo,,,19/09/2026 16:56
 0f647ee4-b974-4628-aa76-7470d6c5b861,want.boats,premium,2500,,high,low,4,name.com,,,
@@ -838,7 +832,7 @@ be50b8f4-49fe-4670-a234-bfe0582581a5,voicemessage.boats,available,1.99,,high,low
 8694ecc3-b392-4ff9-ab07-ee36e06f1d57,oversight.boats,available,1.99,,high,low,9,name.com,,,
 83520f7a-bb7d-4a62-be4d-1b50e3cd9465,sushibar.boats,available,1.99,,high,low,9,name.com,,,
 57d47a47-6db3-41de-8378-9acbe24ed3da,fictive.boats,available,1.8,19.98,low,low,7,namecheap,,,07/08/2026 07:55
-d3065033-e96f-46a7-b219-29b811591fdb,reverse.boats,available,1.99,20.99,high,low,7,name.com,,,
+d3065033-e96f-46a7-b219-29b811591fdb,reverse.boats,available,1.99,17.29,medium,low,7,namesilo,,,23/09/2026 22:34
 53ea2729-6b3f-4d83-afed-eee640bf08d5,toneofvoice.boats,available,1.99,,low,low,13,name.com,,,
 59c20667-41a5-4267-95d3-166bf4af541a,plaguey.boats,available,1.8,19.98,low,low,7,namecheap,,,
 1ebef31c-3998-4a09-b5ae-3391ca780ff5,enterinto.boats,available,1.99,15.75,medium,low,10,namesilo,,,
@@ -865,12 +859,12 @@ a3e20b3a-6dce-41cd-9c0f-fdfd1ee45aef,backless.boats,available,1.8,19.98,low,low,
 7af636c0-7b29-44fe-a0f6-fc7738fb7fa2,peppermintoil.boats,available,1.99,,low,low,14,name.com,,,
 ede52362-81a4-47b0-a773-8e0b808020c5,although.boats,available,1.99,15.75,medium,low,8,namesilo,,,
 3e456b09-3367-4b45-bd87-08cb40cd9622,july.boats,available,1.99,,high,low,4,name.com,,,
-8520ff42-be6b-4793-b89e-9dbaa59c7027,middle.boats,available,1.99,,high,low,6,name.com,,,
+8520ff42-be6b-4793-b89e-9dbaa59c7027,middle.boats,available,1.99,17.29,medium,low,6,namesilo,,,23/09/2026 13:24
 185e87fd-a90c-44b3-9591-7818add266b5,schmaltzy.boats,available,1.8,19.98,low,low,9,namecheap,,,09/08/2026 01:04
 bd089a46-c820-4ec3-ba22-3fcb3b2f72d6,liam.boats,premium,812.5,,high,low,4,name.com,,,
 173b8eea-f65e-40fe-bc59-4c22e2fcf01d,eliminate.boats,available,1.99,15.75,medium,low,9,namesilo,,,
 fa07df11-7db9-40e3-87a9-2ce2733323fb,hearts.boats,available,1.99,,high,low,6,name.com,,,
-d91fb772-d7a9-407a-9446-d846240dc744,rotten.boats,available,1.99,20.99,medium,low,6,name.com,,,
+d91fb772-d7a9-407a-9446-d846240dc744,rotten.boats,available,1.99,20.99,low,low,6,name.com,,,24/09/2026 01:35
 5fc99def-f13c-481c-88cf-64f7b69835c5,onceforall.boats,available,1.99,,low,low,12,name.com,,,
 4873dd5c-0549-400d-aef2-f8426cb4de6b,beguiling.boats,available,1.8,21.98,medium,low,9,namecheap,,,22/09/2026 01:38
 e257d022-8697-4fdb-bd8a-717097af019a,infrared.boats,available,1.8,21.98,low,low,9,namecheap,,,04/09/2026 07:52
@@ -883,7 +877,7 @@ c0b45029-6140-4d63-b020-392313874b70,animated.boats,available,1.99,17.29,medium,
 cdd38f80-5f92-48b4-b6e0-5fe01c339816,getinto.boats,available,1.99,15.75,high,low,8,namesilo,,,
 e2de7bb1-2433-46ca-8591-6cf3e591a22d,folicacid.boats,available,1.99,15.75,high,low,10,namesilo,,,
 293b2b23-de00-4c57-b245-df078cab2bd9,beechen.boats,available,1.8,19.98,low,low,7,namecheap,,,09/08/2026 07:39
-008527d9-a5d4-43cc-96dd-f75ed3d65c1c,crisp.boats,available,1.99,20.99,medium,low,5,name.com,,,
+008527d9-a5d4-43cc-96dd-f75ed3d65c1c,crisp.boats,available,1.8,21.98,low,low,5,namecheap,,,24/09/2026 01:53
 e085dcba-2018-4839-9369-cc12cffefbfb,woops.boats,available,1.99,,high,low,5,name.com,,,
 ff831ab3-84cb-44fc-9212-35ee1918dc0e,ashy.boats,available,1.8,19.98,low,low,4,namecheap,,,07/08/2026 02:04
 1e9871e7-ecf1-4706-a87b-64d4af905f99,consistently.boats,available,1.99,15.75,medium,low,12,namesilo,,,
@@ -915,7 +909,7 @@ b1bb2aaf-5e10-44c2-8897-e1061151cf95,revolved.boats,available,1.99,,medium,low,8
 a20fb6ad-094d-4a02-9d64-29981773cdd5,acetylenic.boats,available,1.8,19.98,low,low,10,namecheap,,,
 7da05753-64bd-4b6a-82bb-3807c9dff1be,sufficient.boats,available,1.99,,high,low,10,name.com,,,
 515e693e-251f-4e48-bf46-9a5e16935c23,melancholy.boats,available,1.99,,high,low,10,name.com,,,
-d1191b98-5ab6-4b18-ad72-3658baffa6a2,brown.boats,premium,812.5,,high,low,5,name.com,,,
+d1191b98-5ab6-4b18-ad72-3658baffa6a2,brown.boats,premium,832,832,medium,low,5,namesilo,,,23/09/2026 10:03
 6a21dc94-8729-4896-becb-05043f829452,experimental.boats,available,1.99,15.75,high,low,12,namesilo,,,
 f18c164d-0f52-4caf-85f8-0ac2401d7871,corn.boats,available,1.99,15.75,medium,low,4,namesilo,,,
 86e2ecba-0a4e-4271-bcc4-6c87efd1e00c,specialized.boats,available,1.99,,medium,low,11,name.com,,,
@@ -975,13 +969,13 @@ b8d4bbf6-38c3-441a-80a3-aa721fd0719a,anorectal.boats,available,1.8,19.98,low,low
 5c505c5d-4e8e-4fac-b1d2-65dc84b514da,prevent.boats,available,1.99,,high,low,7,name.com,,,
 ff0cf353-06fc-437e-bdb3-0cc86a9467c2,deputy.boats,available,1.99,15.75,high,low,6,namesilo,,,
 7b287cca-9ee3-4a12-b9ef-4a1de367c340,howmuchisit.boats,available,1.99,,medium,low,14,name.com,,,
-3db95e77-5a20-46b4-a2ab-f62a16d92612,comparable.boats,available,1.99,20.99,high,low,10,name.com,,,
+3db95e77-5a20-46b4-a2ab-f62a16d92612,comparable.boats,available,1.99,17.29,medium,low,10,namesilo,,,23/09/2026 16:34
 61b9adf8-2efc-407a-b175-4cffc098ea90,janedoe.boats,available,1.99,,medium,low,8,name.com,,,
 402f3682-e37e-48f1-b8b9-e6733b344724,antemortem.boats,available,1.8,19.98,low,low,10,namecheap,,,
 334059aa-0504-40f6-a3d9-2d8e1ae1de9f,facing.boats,available,1.99,15.75,high,low,6,namesilo,,,
 fec285c6-42be-494d-b277-141294311087,discuss.boats,available,1.99,15.75,high,low,7,namesilo,,,
 4825eb5c-61eb-4916-8b0b-6ec6cbd5b298,lawyer.boats,premium,812.5,,medium,low,6,name.com,,,
-adf703cc-d5d5-4dbf-aa1a-77865d250062,payment.boats,available,1.99,17.29,medium,low,7,namesilo,,,20/09/2026 02:57
+adf703cc-d5d5-4dbf-aa1a-77865d250062,payment.boats,available,1.99,17.29,medium,low,7,namesilo,,,23/09/2026 10:58
 8d0b84e2-55fa-4754-9e44-6fe88cc023da,diplomatic.boats,available,1.99,20.99,high,low,10,name.com,,,
 5a7c2163-f25a-4739-a4c3-2fe33f9ae85f,polo.boats,premium,2500,,high,high,4,name.com,,,
 68c57814-1a20-4851-b1d3-d8b68cea5397,applicable.boats,available,1.8,19.98,low,low,10,namecheap,,,06/08/2026 07:06
@@ -992,10 +986,16 @@ c6b06f98-88b3-4e3c-b784-2e7a648579aa,core.boats,premium,2500,,medium,medium,4,na
 c6a9a29f-6cb6-4b88-9188-ca99cb286124,onfoot.boats,available,1.99,,low,low,7,name.com,,,
 d38f4c4c-00cd-4f50-a551-bdefe6bd21e2,protest.boats,available,1.99,,high,low,7,name.com,,,
 bcdb7f9b-5735-4fc7-9073-8b58f4057023,tracing.boats,available,1.99,,high,low,7,name.com,,,
-b7a6f657-d87e-4f3e-afe5-6c337569ca24,material.boats,available,1.99,20.99,high,low,8,name.com,,,
+b7a6f657-d87e-4f3e-afe5-6c337569ca24,material.boats,available,1.99,17.29,medium,low,8,namesilo,,,23/09/2026 23:27
 ea8b2f07-dd5d-4779-b4d6-c247489202e6,participating.boats,available,1.99,,low,low,13,name.com,,,
 67d0e0dc-ede2-4f70-8c09-55c5e98c02cd,focalpoint.boats,available,1.99,15.75,high,low,11,namesilo,,,
 8c5eeb06-05d9-4f81-b0af-1db6509d5fe9,lxxxii.boats,available,1.8,19.98,low,low,6,namecheap,,,
 a69b0a49-a556-41ed-85fc-5e0e7f836b0f,precise.boats,available,1.99,,high,low,7,name.com,,,
-32f93ef3-5cf8-4e44-b88a-27023b16079d,secret.boats,premium,812.5,,high,medium,6,name.com,,,
 c56b5342-c56c-4f00-94c9-ef5082e72361,adiabatic.boats,available,1.8,19.98,low,low,9,namecheap,,,
+1f6e4067-5fa1-4cae-a59e-8fb47ba1bd8c,amused.boats,available,1.8,19.98,low,low,6,namecheap,,,
+148fb601-41fb-4595-9c30-d89f6ceb77e7,systematically.boats,available,1.99,,medium,low,14,name.com,,,
+b7226318-b1ae-46a3-8019-7bdd4879c511,hurt.boats,available,1.99,,medium,low,4,name.com,,,
+52d3be0c-14fc-455b-93c7-17e74f4bb941,rare.boats,premium,812.5,,high,medium,4,name.com,,,
+be91e9e5-9529-4b97-a1bf-67f006bf7e81,seemly.boats,available,1.8,19.98,low,low,6,namecheap,,,09/08/2026 06:27
+5e5dc81b-4ee3-442b-95e7-927acb47c915,witty.boats,available,1.99,,high,low,5,name.com,,,
+2a8bfbc2-398f-47de-9907-215dcfbd49dc,xlii.boats,available,1.8,19.98,low,low,4,namecheap,,,
