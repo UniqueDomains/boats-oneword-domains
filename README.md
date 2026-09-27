@@ -1,10 +1,10 @@
-# Available .BOATS One-Word Domains (32,702)
+# Available .BOATS One-Word Domains (22,856)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C702%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C856%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .boats one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,702 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,856 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,702 domains · **Median ask:** $63.51 · **High-demand under $2,500:** 25
+**Public extract:** 1,000 rows · **Live catalog:** 22,856 domains · **Median ask:** $104.22 · **High-demand under $2,500:** 33
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/boats`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| ant.boats     | available | $1.99     | —             | high           | medium | 3      | name.com                                     |
-| port.boats    | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| ava.boats     | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
-| aol.boats     | available | $1.99     | $15.75        | high           | high   | 3      | namesilo                                     |
-| xmas.boats    | resell    | —         | —             | high           | low    | 4      | Go Daddy, LLC                                |
-| bed.boats     | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
-| ate.boats     | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
-| night.boats   | resell    | —         | —             | high           | low    | 5      | Go Daddy, LLC                                |
-| inc.boats     | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
-| atp.boats     | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
-| peace.boats   | resell    | —         | —             | high           | low    | 5      | GMO Internet Group, Inc. d/b/a Onamae.com    |
-| ink.boats     | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
-| bae.boats     | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
-| shrimp.boats  | resell    | —         | —             | high           | low    | 6      | Go Daddy, LLC                                |
-| joy.boats     | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
-| bra.boats     | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
-| captain.boats | resell    | —         | —             | high           | low    | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
-| lab.boats     | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
-| but.boats     | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
-| journey.boats | resell    | —         | —             | high           | low    | 7      | GMO Internet Group, Inc. d/b/a Onamae.com    |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| ala.boats      | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
+| ice.boats      | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| and.boats      | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
+| ale.boats      | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
+| atlantic.boats | resell    | —         | —             | high           | low    | 8      | Xiamen ChinaSource Internet Service Co., Ltd |
+| ann.boats      | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
+| atp.boats      | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
+| bar.boats      | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
+| bap.boats      | available | $1.80     | $21.98        | high           | low    | 3      | namecheap                                    |
+| bio.boats      | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
+| bum.boats      | available | $1.80     | $19.98        | medium         | low    | 3      | namecheap                                    |
+| one.boats      | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap                                    |
+| ccp.boats      | available | $1.99     | $17.29        | high           | low    | 3      | namesilo                                     |
+| see.boats      | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo                                     |
+| clx.boats      | available | $1.80     | $19.98        | high           | low    | 3      | namecheap                                    |
+| sky.boats      | premium   | $2,500    | —             | high           | medium | 3      | name.com                                     |
+| cow.boats      | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
+| avon.boats     | premium   | $2,500    | —             | high           | low    | 4      | name.com                                     |
+| dim.boats      | available | $1.80     | $19.98        | high           | low    | 3      | namecheap                                    |
+| bare.boats     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,702 live domains                        |
+| 1,000-row public sample | 22,856 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 25 high-demand names under $2,500          |
+| Basic exported fields   | 33 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOATS One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOATS One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
